@@ -1,11 +1,17 @@
-**ABOUT ME**
+Don't stay standing, take a tour on my github!
 
-- 👋 Hi, I’m Oumaima Hammi and I like to go by grimima 
-- 👀 I’m intrested in discovering different areas in IT and CS.
-- 🌱 I’m currently an engineer student @School of Information Sciences (ESI) where I am specialized in Digital Information Engineering
-- Welcome to my github! 
 
-<!---
-grimima/grimima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+But first let me introduce myself. 
+
+
+I am Oumaima HAMMI and I like to go by Grimima on the internet, I am a second year student in digital information engineering @School Of Information Science in Rabat Morocco. 
+
+
+I am a curious person who enjoys exploring different fields of IT, notably cybersecurity, Data & AI, software..
+
+
+You'll find here my school projects and my side projects.
+
+
+Enjoy your tour ! 
+
