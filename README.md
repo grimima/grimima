@@ -18,5 +18,5 @@ Enjoy your tour !
 
 # My Badges 
 
-[!Badge Name](aws-educate-introduction-to-cloud-101)
+[!Badge Name](aws-educate-introduction-to-cloud-101.png)
 
