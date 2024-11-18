@@ -15,3 +15,8 @@ You'll find here my school projects and my side projects.
 
 Enjoy your tour ! 
 
+
+# My Badges 
+
+[!Badge Name](aws-educate-introduction-to-cloud-101)
+
